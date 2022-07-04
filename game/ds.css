@@ -1,0 +1,7 @@
+div.someclass{ 
+ background: url(https://pbs.twimg.com/media/EFSuhivUUAAIJOZ.jpg:small) no-repeat center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
